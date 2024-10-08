@@ -1,7 +1,9 @@
 import express from 'express';
 import titans, { data } from './titans.json';
+import cors from 'cors';
 
 const app = express();
+app.use(cors());
 
 app.get('/titans', (req, res) => {
   res.json(titans);
