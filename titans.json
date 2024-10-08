@@ -5,8 +5,8 @@
       "id": "1",
       "name": "Founding Titan",
       "height": "13 meters",
-      "description": "Total control over the titans, manipulation of the memories and biology of the eldians.",
-      "ability": "",
+      "description": "",
+      "ability": "Total control over the titans, manipulation of the memories and biology of the eldians.",
       "carriers": [
         "Ymir Fritz",
         "Carl Fritz",
@@ -16,9 +16,9 @@
         "Eren Yeager"
       ],
       "image": [
-        "https://asset.cloudinary.com/drazdkofq/97e2d8e3db16954982061f70c9b975c8",
-        "https://asset.cloudinary.com/drazdkofq/dadf211d6d9b190418011c7a93f2d8f8",
-        "https://asset.cloudinary.com/drazdkofq/29b556ba66e84f9cefc65062695dc467"
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075655/fundengertitan_mmxanw.jpg",
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075452/ymir_titan_gsodyl.jpg",
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075447/Founding_Titan_Frieda_Reiss_hb5aoy.jpg"
       ],
       "video": ""
     },
@@ -27,13 +27,13 @@
       "id": "2",
       "name": "Attack Titan",
       "height": "15 meters",
-      "description": "Great physical strength and endurance; ability to “see” memories of future carriers.",
-      "ability": "",
+      "description": "",
+      "ability": "Great physical strength and endurance; ability to “see” memories of future carriers.",
       "carriers": ["Eren Kruger", "Grisha Yeager", "Eren Yeager"],
       "image": [
-        "https://asset.cloudinary.com/drazdkofq/a04edf8d4b0305b1909e87a2deb60d8e",
-        "https://asset.cloudinary.com/drazdkofq/30220ddcd0de570e0ae4cd378a92c9ef",
-        "https://asset.cloudinary.com/drazdkofq/c7a2e29d9bb9806fb75d464b097558a2"
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1727229042/ggmpzkvemxzfwkpcocbn.jpg",
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075448/%D0%90%D1%82%D0%B0%D0%BA%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%A2%D0%B8%D1%82%D0%B0%D0%BD_phraep.jpg",
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075654/titanattack23_vdumt4.jpg"
       ],
       "video": ""
     },
@@ -42,12 +42,12 @@
       "id": "3",
       "name": "Colossal Titan",
       "height": "60 meters",
-      "description": "Enormous size; ability to emit superheated steam explosions; great destructive power.",
-      "ability": "",
+      "description": "",
+      "ability": "Enormous size; ability to emit superheated steam explosions; great destructive power.",
       "carriers": ["Bertholdt Hoover", "Armin Arlert"],
       "image": [
-        "https://asset.cloudinary.com/drazdkofq/f3540884a93c25af7ff855029ee9e3fd",
-        "https://asset.cloudinary.com/drazdkofq/212d17c448b24d3a8c01e1e48a8e3dff"
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075446/descarga_2_i9qeqy.jpg",
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075445/%E1%B4%80%CA%80%E1%B4%8D%C9%AA%C9%B4_%E1%B4%9B%C9%AA%E1%B4%9B%E1%B4%80%C9%B4_fwuvab.jpg"
       ],
       "video": ""
     },
@@ -56,11 +56,11 @@
       "id": "4",
       "name": "Armored Titan",
       "height": "15 meters",
-      "description": "Armored body with plate armor; high resistance and defensive capability.",
-      "ability": "",
+      "description": "",
+      "ability": "Armored body with plate armor; high resistance and defensive capability.",
       "carriers": ["Reiner Braun"],
       "image": [
-        "https://asset.cloudinary.com/drazdkofq/12bbba809ef582850f955a2d17875a46"
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075654/amoredtitan_acoamj.jpg"
       ],
       "video": ""
     },
@@ -69,11 +69,11 @@
       "id": "5",
       "name": "Female Titan",
       "height": "14 meters",
-      "description": "Great agility and melee fighting ability; can crystallize its skin for defense or attack.",
-      "ability": "",
+      "description": "",
+      "ability": "Great agility and melee fighting ability; can crystallize its skin for defense or attack.",
       "carriers": ["Annie Leonhart"],
       "image": [
-        "https://asset.cloudinary.com/drazdkofq/a97fc20a84abbe40191d7949264aaae1"
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075443/descarga_3_vvrcbu.jpg"
       ],
       "video": ""
     },
@@ -82,11 +82,11 @@
       "id": "6",
       "name": "Beast Titan",
       "height": "17 meters",
-      "description": "Ability to throw objects with deadly accuracy; the titan's physical form can vary (in Zeke's case, with ape-like features); Zeke Yeager can transform eldians into titans with his scream.",
-      "ability": "",
+      "description": "",
+      "ability": "Ability to throw objects with deadly accuracy; the titan's physical form can vary (in Zeke's case, with ape-like features); Zeke Yeager can transform eldians into titans with his scream.",
       "carriers": ["Tom Ksaver", "Zeke Yeager"],
       "image": [
-        "https://asset.cloudinary.com/drazdkofq/f6233c34795295c4a1b6900f971696f4"
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075442/Beast_Titan_zjzlj1.jpg"
       ],
       "video": ""
     },
@@ -95,8 +95,8 @@
       "id": "7",
       "name": "Jaw Titan",
       "height": "5 meters",
-      "description": "Great speed and agility; extremely strong jaws and claws capable of destroying very hard materials.",
-      "ability": "",
+      "description": "",
+      "ability": "Great speed and agility; extremely strong jaws and claws capable of destroying very hard materials.",
       "carriers": [
         "Marcel Galliard",
         "Ymir (Eldiana of the walls)",
@@ -104,9 +104,9 @@
         "Falco Grice"
       ],
       "image": [
-        "https://asset.cloudinary.com/drazdkofq/e63015e4a9b1f164b6c3e17271339403",
-        "https://asset.cloudinary.com/drazdkofq/218f11017b8603174b3b937f9201e569",
-        "https://asset.cloudinary.com/drazdkofq/9f78b0be3ec2c8309e3b6c62456dbf82"
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075442/descarga_4_pufrgm.jpg",
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075442/descarga_5_kuqa9i.jpg",
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728075442/Jaw_Titan_Porco_Galliard_lbfngr.jpg"
       ],
       "video": ""
     },
@@ -115,11 +115,11 @@
       "id": "8",
       "name": "Cart Titan",
       "height": "4 meters",
-      "description": "Great endurance, able to remain in its titan form for long periods; speed and ability to carry weapons and equipment.",
-      "ability": "",
+      "description": "",
+      "ability": "Great endurance, able to remain in its titan form for long periods; speed and ability to carry weapons and equipment.",
       "carriers": ["Pieck Finger"],
       "image": [
-        "https://asset.cloudinary.com/drazdkofq/1887a1327820a3611921d37813863178"
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728076410/carguerotitan_pruywx.jpg"
       ],
       "video": ""
     },
@@ -128,11 +128,11 @@
       "id": "9",
       "name": "War Hammer Titan",
       "height": "15 meters",
-      "description": "Ability to create structures and weapons from hardened material, including spears, hammers and other objects. The wearer can control the titan from a separate capsule.",
-      "ability": "",
+      "description": "",
+      "ability": "Ability to create structures and weapons from hardened material, including spears, hammers and other objects. The wearer can control the titan from a separate capsule.",
       "carriers": ["Unnamed member of the family TYBUR", "Eren Yeager"],
       "image": [
-        "https://asset.cloudinary.com/drazdkofq/dbb51cb3272b7fcb0930e45596a726a2"
+        "https://res.cloudinary.com/drazdkofq/image/upload/v1728076410/titanmartillo_qii1s1.jpg"
       ],
       "video": ""
     }
