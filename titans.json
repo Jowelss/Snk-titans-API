@@ -1,0 +1,139 @@
+{
+  "title": "Titans",
+  "data": [
+    {
+      "id": "1",
+      "name": "Founding Titan",
+      "height": "13 meters",
+      "description": "Total control over the titans, manipulation of the memories and biology of the eldians.",
+      "ability": "",
+      "carriers": [
+        "Ymir Fritz",
+        "Carl Fritz",
+        "Uri Reiss",
+        "Frieda Reiss",
+        "Grisha Yeager",
+        "Eren Yeager"
+      ],
+      "image": [
+        "https://asset.cloudinary.com/drazdkofq/97e2d8e3db16954982061f70c9b975c8",
+        "https://asset.cloudinary.com/drazdkofq/dadf211d6d9b190418011c7a93f2d8f8",
+        "https://asset.cloudinary.com/drazdkofq/29b556ba66e84f9cefc65062695dc467"
+      ],
+      "video": ""
+    },
+
+    {
+      "id": "2",
+      "name": "Attack Titan",
+      "height": "15 meters",
+      "description": "Great physical strength and endurance; ability to “see” memories of future carriers.",
+      "ability": "",
+      "carriers": ["Eren Kruger", "Grisha Yeager", "Eren Yeager"],
+      "image": [
+        "https://asset.cloudinary.com/drazdkofq/a04edf8d4b0305b1909e87a2deb60d8e",
+        "https://asset.cloudinary.com/drazdkofq/30220ddcd0de570e0ae4cd378a92c9ef",
+        "https://asset.cloudinary.com/drazdkofq/c7a2e29d9bb9806fb75d464b097558a2"
+      ],
+      "video": ""
+    },
+
+    {
+      "id": "3",
+      "name": "Colossal Titan",
+      "height": "60 meters",
+      "description": "Enormous size; ability to emit superheated steam explosions; great destructive power.",
+      "ability": "",
+      "carriers": ["Bertholdt Hoover", "Armin Arlert"],
+      "image": [
+        "https://asset.cloudinary.com/drazdkofq/f3540884a93c25af7ff855029ee9e3fd",
+        "https://asset.cloudinary.com/drazdkofq/212d17c448b24d3a8c01e1e48a8e3dff"
+      ],
+      "video": ""
+    },
+
+    {
+      "id": "4",
+      "name": "Armored Titan",
+      "height": "15 meters",
+      "description": "Armored body with plate armor; high resistance and defensive capability.",
+      "ability": "",
+      "carriers": ["Reiner Braun"],
+      "image": [
+        "https://asset.cloudinary.com/drazdkofq/12bbba809ef582850f955a2d17875a46"
+      ],
+      "video": ""
+    },
+
+    {
+      "id": "5",
+      "name": "Female Titan",
+      "height": "14 meters",
+      "description": "Great agility and melee fighting ability; can crystallize its skin for defense or attack.",
+      "ability": "",
+      "carriers": ["Annie Leonhart"],
+      "image": [
+        "https://asset.cloudinary.com/drazdkofq/a97fc20a84abbe40191d7949264aaae1"
+      ],
+      "video": ""
+    },
+
+    {
+      "id": "6",
+      "name": "Beast Titan",
+      "height": "17 meters",
+      "description": "Ability to throw objects with deadly accuracy; the titan's physical form can vary (in Zeke's case, with ape-like features); Zeke Yeager can transform eldians into titans with his scream.",
+      "ability": "",
+      "carriers": ["Tom Ksaver", "Zeke Yeager"],
+      "image": [
+        "https://asset.cloudinary.com/drazdkofq/f6233c34795295c4a1b6900f971696f4"
+      ],
+      "video": ""
+    },
+
+    {
+      "id": "8",
+      "name": "Jaw Titan",
+      "height": "5 meters",
+      "description": "Great speed and agility; extremely strong jaws and claws capable of destroying very hard materials.",
+      "ability": "",
+      "carriers": [
+        "Marcel Galliard",
+        "Ymir (Eldiana of the walls)",
+        "Porco Galliard",
+        "Falco Grice"
+      ],
+      "image": [
+        "https://asset.cloudinary.com/drazdkofq/e63015e4a9b1f164b6c3e17271339403",
+        "https://asset.cloudinary.com/drazdkofq/218f11017b8603174b3b937f9201e569",
+        "https://asset.cloudinary.com/drazdkofq/9f78b0be3ec2c8309e3b6c62456dbf82"
+      ],
+      "video": ""
+    },
+
+    {
+      "id": "9",
+      "name": "Cart Titan",
+      "height": "4 meters",
+      "description": "Great endurance, able to remain in its titan form for long periods; speed and ability to carry weapons and equipment.",
+      "ability": "",
+      "carriers": ["Pieck Finger"],
+      "image": [
+        "https://asset.cloudinary.com/drazdkofq/1887a1327820a3611921d37813863178"
+      ],
+      "video": ""
+    },
+
+    {
+      "name": "War Hammer Titan",
+      "height": "15 meters",
+      "description": "Ability to create structures and weapons from hardened material, including spears, hammers and other objects. The wearer can control the titan from a separate capsule.",
+      "ability": "",
+      "carriers": ["Unnamed member of the family TYBUR", "Eren Yeager"],
+      "image": [
+        "https://asset.cloudinary.com/drazdkofq/dbb51cb3272b7fcb0930e45596a726a2"
+      ],
+      "video": ""
+    }
+  ]
+}
