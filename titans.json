@@ -92,7 +92,7 @@
     },
 
     {
-      "id": "8",
+      "id": "7",
       "name": "Jaw Titan",
       "height": "5 meters",
       "description": "Great speed and agility; extremely strong jaws and claws capable of destroying very hard materials.",
@@ -112,7 +112,7 @@
     },
 
     {
-      "id": "9",
+      "id": "8",
       "name": "Cart Titan",
       "height": "4 meters",
       "description": "Great endurance, able to remain in its titan form for long periods; speed and ability to carry weapons and equipment.",
@@ -125,6 +125,7 @@
     },
 
     {
+      "id": "9",
       "name": "War Hammer Titan",
       "height": "15 meters",
       "description": "Ability to create structures and weapons from hardened material, including spears, hammers and other objects. The wearer can control the titan from a separate capsule.",
